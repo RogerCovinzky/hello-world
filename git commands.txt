@@ -1,2 +1,14 @@
 git init
-git add
+git add <filename>
+git add .
+git status
+git commit -m "message"
+git config --global user.email "email.gmail.com"
+git config --global user.name "George"
+git checkout -b <my branch name>
+git branch
+git push origin yourbranchname
+git pull origin yourbranchname
+git revert <hash code number>
+git pull origin master
+git log
